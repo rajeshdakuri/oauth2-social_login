@@ -46,7 +46,7 @@ After selecting GitHub Login, the user is redirected to GitHub's consent screen.
 
 ### GitHub Sign In Page
 
-![GitHub Login](screenshots/github_login_page.png).
+![GitHub Login]
 <img width="811" height="862" alt="github_login_page" src="https://github.com/user-attachments/assets/0a06536c-16fd-4195-9736-f6a5f3e6419b" />
 
 
