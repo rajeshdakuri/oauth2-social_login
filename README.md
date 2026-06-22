@@ -33,7 +33,7 @@ A Spring Boot application demonstrating authentication using Spring Security For
 
 ### Spring Security Login Page
 
-![Login Page](screenshots)
+![Login Page](screenshots/login.png.png)
 <img width="500" height="500" alt="login png" src="https://github.com/user-attachments/assets/d51a9c3a-0c43-4cdc-8eda-fdb4098473d0" />
 
 
