@@ -114,8 +114,10 @@ The `/secure` endpoint inspects the Authentication object and determines which a
 src
  └── main
      └── java
-         ├── SecurityConfig.java
-         └── Controller.java
+         ├──controller
+           └── Controller.java
+         ├── security
+           └── Securityconfig.java
 ```
 
 ### SecurityConfig
